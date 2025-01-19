@@ -1,0 +1,5 @@
+NAME="mineCORE"
+PRETTY_NAME="mineCORE"
+ID=minecore
+BUILD_ID=rolling
+ANSI_COLOR="38;2;102;182;255"

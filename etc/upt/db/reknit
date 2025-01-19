@@ -1,0 +1,5 @@
+1.0.0-beta.5:Wattana,Ocawesome101:cynosure2:GPLv3:local:ULOS 2 init system
+/
+/bin/
+/bin/telinit.lua
+/bin/init.lua

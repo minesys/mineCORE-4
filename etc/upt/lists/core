@@ -1,0 +1,8 @@
+cldr:2.0.0-beta.5:12195:Ocawesome101::GPLv3:The Cynosure Loader version 2
+cynosure2:2.0.0-ulos2-df09a82:126300:Ocawesome101,Wattana::GPLv3:The Cynosure 2 kernel, the heart of ULOS 2
+reknit:1.0.0-beta.5:8414:Wattana,Ocawesome101:cynosure2:GPLv3:ULOS 2 init system
+coreutils:2.0.0-beta.5:84771:Ocawesome101:liblua:GPLv3:ULOS 2 core utilities
+liblua:1.0.0-beta.5:80570:Ocawesome101::GPLv3:ULOS 2 core libraries
+upt:1.0.0-beta.5:49373:Ocawesome101:coreutils,liblua:GPLv3:The ULOS Packaging Tool
+vbls:1.0.0-beta.5:23740:Ocawesome101:liblua:GPLv3:The Vaguely Bourne-Like Shell
+prismbios:1.0.0:4063:Ocawesome101::GPLv3:BIOS used for booting from unmanaged drives

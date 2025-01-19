@@ -1,0 +1,4 @@
+# devfs, procfs
+devfs /dev
+procfs /proc
+tmpfs /tmp

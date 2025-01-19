@@ -1,0 +1,17 @@
+1.0.0-beta.5:Ocawesome101:cldr,cynosure2,coreutils,liblua,reknit,upt,vbls:GPLv3:local:System-specific configuration files for ULOS 2
+/
+/boot/
+/boot/cldr.cfg
+/
+/etc/
+/etc/os-release
+/etc/inittab
+/
+/etc/
+/etc/upt/
+/etc/upt/repos
+/etc/fstab
+/etc/profile
+/etc/group
+/etc/issue
+/etc/passwd
