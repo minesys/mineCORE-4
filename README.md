@@ -26,6 +26,9 @@ Password: root
 
 ### TODO: project development map
 
+> [!NOTE]
+> The list is not final: everything that is being done for mineCORE is not fully declassified, published or implemented. The list can be updated and supplemented at any time, keep this in mind.
+
 - [x] Full implementation of POSIX environment
 - [x] Implementation of UNIX-like system and kernel environment
 - [ ] Implementation of the initial version of the package manager and repository update system
