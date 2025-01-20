@@ -23,3 +23,12 @@ Use the following data for authorization
 Login: root
 Password: root
 ```
+
+### TODO: project development map
+
+- [x] Full implementation of POSIX environment
+- [x] Implementation of UNIX-like system and kernel environment
+- [ ] Implementation of the initial version of the package manager and repository update system
+- [x] Implementing Groups and User Rights in UserMgr
+- [x] Executing commands and scripts as superuser (sudo)
+- [ ] Implementation of MTAR and PKG support in the system
